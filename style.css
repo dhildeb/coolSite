@@ -19,6 +19,15 @@ h1,h2,h3,h4,h5,h6{
   font-size: 32px;
   border: .25rem solid var(--color);
 }
+.footer{
+  background-color: var(--primary);
+  color: var(--light);
+  border: var(--color);
+  padding: 1.9rem;
+  margin: -.5rem;
+  font-size: 32px;
+  border: .25rem solid var(--color);
+}
 
 .bar{
   background-color: var(--secondary);
